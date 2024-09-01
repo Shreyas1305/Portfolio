@@ -25,7 +25,7 @@ from sklearn.utils.multiclass import unique_labels
 # In[2]:
 
 
-dataset = pd.read_csv("../dataset/estadistical.csv")
+dataset = pd.read_csv("Task1/score.csv")
 
 
 # In[3]:
