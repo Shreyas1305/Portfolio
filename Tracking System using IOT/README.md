@@ -30,3 +30,8 @@ But that’s not all! We also designed a **sleek and lightweight 3D-printed encl
 
 We’re proud of our team's **innovation and problem-solving skills**, combining **IoT technology** with **3D printing** to create a unique solution! 🚀  
 
+![1721822253434](https://github.com/user-attachments/assets/799421c2-f952-4a18-bdc6-a1b111656b72)
+
+![1721822254276](https://github.com/user-attachments/assets/01050c50-1e17-43d1-a124-b2d7088e913c)
+
+![1721822253423](https://github.com/user-attachments/assets/07eaadcf-6fc8-427b-954d-20d08ef0ed57)
