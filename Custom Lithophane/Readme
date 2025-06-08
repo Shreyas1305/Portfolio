@@ -1,52 +1,41 @@
-Sure! Here's an **expanded, emoji-enhanced project description** you can use for your GitHub `README.md`:
+🕯️ Lithophane Night Lamp – 3D Printed Custom Design
+This project is a handcrafted lithophane night lamp 🛠️🖼️ designed and 3D printed from scratch, combining digital modeling, 
+artistic image processing, and functional product design.
 
----
+🖼️ What I Made
+I started with a simple 2D photo and transformed it into a beautiful lithophane – a 3D-printed panel that reveals the image when lit from behind. 
+Lithophanes use thickness variations to control light, making the image appear in stunning detail when backlit 🌟.
 
-### 🕯️ Lithophane Night Lamp – 3D Printed Custom Design
-
-This project is a **handcrafted lithophane night lamp** 🛠️🖼️ designed and 3D printed from scratch, combining digital modeling, artistic image processing, and functional product design.
-
----
-
-#### 🖼️ What I Made
-
-I started with a simple 2D photo and transformed it into a beautiful **lithophane** – a 3D-printed panel that reveals the image when lit from behind. Lithophanes use thickness variations to control light, making the image appear in stunning detail when backlit 🌟.
-
----
-
-#### 🧰 Tools & Process
-
+🧰 Tools & Process
 Here's how I made it:
 
-1. **Image Conversion** 🎞️
-   I used an online lithophane generator (such as [3DP Rocks](http://3dp.rocks/lithophane/) or [ItsLitho](https://itslitho.com/)) to convert a grayscale image into a 3D model (STL) where brighter parts are thinner and darker parts are thicker.
+Image Conversion 🎞️
+I used an online lithophane generator (such as 3DP Rocks or ItsLitho) to convert a grayscale image into a 3D model (STL) 
+where brighter parts are thinner and darker parts are thicker.
 
-2. **3D Printing the Lithophane** 🖨️
-   I printed the lithophane using white PLA filament with fine layer height (0.1 mm) for better detail. Vertical orientation was used to retain sharpness and contrast when lit.
+3D Printing the Lithophane 🖨️
+I printed the lithophane using white PLA filament with fine layer height (0.1 mm) for better detail. 
+Vertical orientation was used to retain sharpness and contrast when lit.
 
-3. **Custom Box Design** 📦
-   To turn the lithophane into a **functional night lamp**, I designed a custom box in \[Fusion 360 / Tinkercad / Blender – replace as needed]. The box includes:
+Custom Box Design 📦
+To turn the lithophane into a functional night lamp, I designed a custom box in [Fusion 360 / Tinkercad / Blender – replace as needed]. 
 
-   * A **precise slot** to hold the lithophane panel securely
-   * **Internal space** to house a small LED or USB-powered light 💡
-   * Optional **vents or decorative cutouts** to enhance glow and airflow
+The box includes:
+A precise slot to hold the lithophane panel securely
+Internal space to house a small LED or USB-powered light 💡
 
-4. **Assembly** 🪛
-   Once both parts were printed, I inserted the lithophane into the front slot of the box, placed a light source inside, and closed it up. The result? A soft-glowing, image-based night lamp – both **personalized and practical** 🌙✨.
+Assembly 🪛
+Once both parts were printed, I inserted the lithophane into the front slot of the box, placed a light source inside, and closed it up.
+The result? A soft-glowing, image-based night lamp – both personalized and practical 🌙✨.
 
----
+🔋 Features
+🔲 Fully 3D printable
+🖼️ Supports any image (portraits work best)
+🔌 Compatible with USB LED lights
+📐 Custom box modeling for a clean and seamless fit
+🛏️ Perfect for bedrooms, desks, or gifting 🎁
 
-#### 🔋 Features
-
-* 🔲 Fully 3D printable
-* 🖼️ Supports any image (portraits work best)
-* 🔌 Compatible with USB LED lights
-* 📐 Custom box modeling for a clean and seamless fit
-* 🛏️ Perfect for bedrooms, desks, or gifting 🎁
-
----
-
-#### 🌟 Final Result
-
-> The printed lithophane glows beautifully in the dark, turning a simple photo into a **warm, ambient light source**. It’s a great way to add a personal touch to home decor or create a meaningful gift.
+🌟 Final Result
+The printed lithophane glows beautifully in the dark, turning a simple photo into a warm, ambient light source. 
+It’s a great way to add a personal touch to home decor or create a meaningful gift.
 
