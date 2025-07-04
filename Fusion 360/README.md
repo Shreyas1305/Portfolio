@@ -1,8 +1,6 @@
   **Bench Vice 🎈**
-  
-  
+  ![Bench Vice v1](https://github.com/user-attachments/assets/35dc4092-5c1e-4eb8-a929-e8cb4fe91f53)
 
-https://github.com/user-attachments/assets/5987d76c-b847-4bbf-a0d2-31ff3e677927
 
 
   **Universal Joint 🧩**
