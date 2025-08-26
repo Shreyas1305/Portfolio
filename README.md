@@ -5,22 +5,31 @@ Welcome to my GitHub repository! This space is dedicated to showcasing the proje
 🎓 B.Tech (Automation & Robotics) | Sharad Institute of Technology, Yadrav
 🤖 Aspiring Automation & Robotics Engineer | Passionate about Industrial Robotics, Machine Vision, IoT & CAD Design
 
-##🔧 Skills & Tools
+#🔧 Skills & Tools
 Robotics: Fanuc RoboGuide, RT Toolbox, ROS2
+
 CAD & Simulation: Fusion 360, SolidWorks, Creo
+
 Programming: C, C++, Python, ESP32 (Embedded)
+
 Automation: PLC (Delta, Codesys), iRVision
+
 Others: 3D Printing, IoT, Machine Learning (CNN), Industrial Automation Concepts
 
-##🚀 Projects
+
+#🚀 Projects
 
 Industrial Robotics Simulation using Fanuc RoboGuide
   -Pick & Place
   -Palletizing
   -iRVision-Based Inspection
+  
 Development of a Delta Robot for High-Speed Pick & Place
+
 Automated Cutting Tool Wear Inspection System (Machine Learning)
+
 Vision & Voice Operated Bionic Hand
+
 Real-Time Tracking System (IoT)
 
 Feel free to explore, learn, and collaborate. Contributions and feedback are always welcome!  
