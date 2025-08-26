@@ -12,10 +12,15 @@ This space is dedicated to showcasing the projects and work I have done. Here, y
 🛠️ Skills & Tools
 
 🤖 Robotics: Fanuc RoboGuide, RT Toolbox, ROS2
+
 🖥️ CAD & Simulation: Fusion 360, SolidWorks, Creo
+
 💻 Programming: C, C++, Python, ESP32 (Embedded)
+
 ⚡ Automation: PLC (Delta, Codesys), iRVision
+
 🧩 Others: 3D Printing, IoT, Machine Learning (CNN), Industrial Automation Concepts
+
 
 🚀 Projects
 
