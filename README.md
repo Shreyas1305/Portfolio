@@ -1,35 +1,41 @@
-Welcome to my GitHub repository! This space is dedicated to showcasing the projects and work I have done. Here, you'll find a collection of my experiments, implementations, and creative solutions in various domains.  
+👋 Welcome to my GitHub Repository!
 
-👋 Hi, Shreyas here :)
+This space is dedicated to showcasing the projects and work I have done. Here, you'll find a collection of my experiments, implementations, and creative solutions in various domains.
+
+🙋‍♂️ About Me
+
+👋 Hi, Shreyas here 🙂
 
 🎓 B.Tech (Automation & Robotics) | Sharad Institute of Technology, Yadrav
 🤖 Aspiring Automation & Robotics Engineer | Passionate about Industrial Robotics, Machine Vision, IoT & CAD Design
 
-#🔧 Skills & Tools
-Robotics: Fanuc RoboGuide, RT Toolbox, ROS2
+🛠️ Skills & Tools
 
-CAD & Simulation: Fusion 360, SolidWorks, Creo
+🤖 Robotics: Fanuc RoboGuide, RT Toolbox, ROS2
+🖥️ CAD & Simulation: Fusion 360, SolidWorks, Creo
+💻 Programming: C, C++, Python, ESP32 (Embedded)
+⚡ Automation: PLC (Delta, Codesys), iRVision
+🧩 Others: 3D Printing, IoT, Machine Learning (CNN), Industrial Automation Concepts
 
-Programming: C, C++, Python, ESP32 (Embedded)
+🚀 Projects
 
-Automation: PLC (Delta, Codesys), iRVision
+🤖 Industrial Robotics Simulation using Fanuc RoboGuide
 
-Others: 3D Printing, IoT, Machine Learning (CNN), Industrial Automation Concepts
+🟡 Pick & Place
 
+📦 Palletizing
 
-#🚀 Projects
+👁️ iRVision-Based Inspection
 
-Industrial Robotics Simulation using Fanuc RoboGuide
-  -Pick & Place
-  -Palletizing
-  -iRVision-Based Inspection
-  
-Development of a Delta Robot for High-Speed Pick & Place
+⚙️ Development of a Delta Robot for High-Speed Pick & Place
 
-Automated Cutting Tool Wear Inspection System (Machine Learning)
+🔬 Automated Cutting Tool Wear Inspection System (Machine Learning)
 
-Vision & Voice Operated Bionic Hand
+✋ Vision & Voice Operated Bionic Hand
 
-Real-Time Tracking System (IoT)
+📡 Real-Time Tracking System (IoT)
 
-Feel free to explore, learn, and collaborate. Contributions and feedback are always welcome!  
+🤝 Collaboration
+
+💡 Feel free to explore, learn, and collaborate.
+💬 Contributions and feedback are always welcome!
