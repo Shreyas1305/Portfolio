@@ -21,11 +21,11 @@ This space is dedicated to showcasing the projects and work I have done. Here, y
 
 🤖 Industrial Robotics Simulation using Fanuc RoboGuide
 
-🟡 Pick & Place
+    🟡 Pick & Place
 
-📦 Palletizing
+    📦 Palletizing
 
-👁️ iRVision-Based Inspection
+    👁️ iRVision-Based Inspection
 
 ⚙️ Development of a Delta Robot for High-Speed Pick & Place
 
