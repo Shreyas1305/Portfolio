@@ -8,9 +8,10 @@ This space is dedicated to showcasing the projects and work I have done. Here, y
 🎓 B.Tech (Automation & Robotics) | Sharad Institute of Technology, Yadrav
 🤖 Aspiring Automation & Robotics Engineer | Passionate about Industrial Robotics, Machine Vision, IoT & CAD Design
 
+
 **🛠️ Skills & Tools**
 
-🤖 Robotics: Fanuc RoboGuide, RT Toolbox, ROS2
+    🤖 Robotics: Fanuc RoboGuide, RT Toolbox, ROS2
 
     🖥️ CAD & Simulation: Fusion 360, SolidWorks, Creo
 
