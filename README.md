@@ -10,34 +10,34 @@ This space is dedicated to showcasing the projects and work I have done. Here, y
 
 **🛠️ Skills & Tools**
 
-🤖 Robotics: Fanuc RoboGuide, RT Toolbox, ROS2
+    🤖 Robotics: Fanuc RoboGuide, RT Toolbox, ROS2
 
-🖥️ CAD & Simulation: Fusion 360, SolidWorks, Creo
+    🖥️ CAD & Simulation: Fusion 360, SolidWorks, Creo
 
-💻 Programming: C, C++, Python, ESP32 (Embedded)
+    💻 Programming: C, C++, Python, ESP32 (Embedded)
 
-⚡ Automation: PLC (Delta, Codesys), iRVision
+    ⚡ Automation: PLC (Delta, Codesys), iRVision
 
-🧩 Others: 3D Printing, IoT, Machine Learning (CNN), Industrial Automation Concepts
+    🧩 Others: 3D Printing, IoT, Machine Learning (CNN), Industrial Automation Concepts
 
 
 **🚀 Projects**
 
-🤖 Industrial Robotics Simulation using Fanuc RoboGuide
+    🤖 Industrial Robotics Simulation using Fanuc RoboGuide
 
-    🟡 Pick & Place
+        🟡 Pick & Place
 
-    📦 Palletizing
+        📦 Palletizing
 
-    👁️ iRVision-Based Inspection
+        👁️ iRVision-Based Inspection
 
-⚙️ Development of a Delta Robot for High-Speed Pick & Place
+    ⚙️ Development of a Delta Robot for High-Speed Pick & Place
 
-🔬 Automated Cutting Tool Wear Inspection System (Machine Learning)
+    🔬 Automated Cutting Tool Wear Inspection System (Machine Learning)
 
-✋ Vision & Voice Operated Bionic Hand
+    ✋ Vision & Voice Operated Bionic Hand
 
-📡 Real-Time Tracking System (IoT)
+    📡 Real-Time Tracking System (IoT)
 
 
 **🤝 Collaboration**
