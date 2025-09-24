@@ -1,3 +1,3 @@
 
 
-![MovingConvyorPNP-ezgif com-video-to-gif-converter (1)](https://github.com/user-attachments/assets/fa54bd8f-8f6e-45bf-8ec5-00cc960cf0f1)
+![PNP 2](https://github.com/user-attachments/assets/67e982c1-8347-469f-afd5-891078f4c3b4)
