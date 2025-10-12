@@ -1,4 +1,5 @@
-🦿 3D Printed Jansen-Style Autonomous Octopod Robot
+🦿 3D Printed Jansen-Style Autonomous Octopod Robot 🕷️
+
 📌 Overview
 
 An eight-legged walking robot inspired by the Theo Jansen mechanism, designed for smooth and stable motion. Powered by an Arduino microcontroller, it controls two DC geared motors to reproduce the complex elliptical gait.
