@@ -1,11 +1,11 @@
 ![20251011_153124](https://github.com/user-attachments/assets/8243d9a8-5600-407c-99a4-e52432be82a4)
 
 
-🦾 Development of a 4-DOF Articulated Robot for Color-Based Sorting
+🦾 Development of a 4-DOF Articulated Robot for PNP
 
 📌 Overview
 
-A 4-DOF articulated robotic arm designed for real-time color-based object sorting. The robot detects object colors using a color sensor and automatically sorts them to designated locations with high precision.
+A 4-DOF articulated robotic arm designed for real-time PNP. The robot sorts them to designated locations with high precision.
 
 ⚙️ Features
 
