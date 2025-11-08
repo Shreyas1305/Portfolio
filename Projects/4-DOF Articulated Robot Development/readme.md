@@ -9,8 +9,6 @@ A 4-DOF articulated robotic arm designed for real-time PNP. The robot sorts them
 
 ⚙️ Features
 
-    🎨 Color sensor–based sorting system
-
     🧩 3D-printed articulated arm with 4 degrees of freedom
 
     💻 C++ firmware for inverse kinematics and position control
